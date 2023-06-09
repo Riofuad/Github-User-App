@@ -4,7 +4,7 @@
   <img src="https://cdn-icons-png.flaticon.com/512/25/25231.png" alt="GitHub Logo"/>
 </p>
 
-An application containing a list of GitHub users from [GitHub REST API](https://docs.github.com/en/rest/quickstart?apiVersion=2022-11-28). In this app, you can search for GitHub users, view their detail pages, view the followers, and the following list of that GitHub account. This app is made for final submission on the "Android Fundamentals" ([Belajar Fundamental Aplikasi Android](https://www.dicoding.com/academies/14)) Dicoding course. This application implements some of the material from the course, i.e:
+An application containing a list of GitHub users from [Users GitHub REST API](https://docs.github.com/en/rest/users/users?apiVersion=2022-11-28). In this app, you can search for GitHub users, view their detail pages, view the followers, and the following list of that GitHub account. This app is made for final submission on the "Android Fundamentals" ([Belajar Fundamental Aplikasi Android](https://www.dicoding.com/academies/14)) Dicoding course. This application implements some of the material from the course, i.e:
 - Fragment
 - Navigation
 - Background Thread and Networking (Web API & Retrofit)
