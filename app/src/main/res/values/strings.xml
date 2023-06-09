@@ -1,0 +1,25 @@
+<resources>
+    <string name="app_name">GitHub User App</string>
+
+    <string name="name">Name</string>
+    <string name="username">Username</string>
+    <string name="bio">Bio</string>
+    <string name="strip"> — </string>
+    <string name="search">Search</string>
+    <string name="favorite">Favorite</string>
+    <string name="share">Share</string>
+    <string name="search_hint">Search by username</string>
+    <string name="followers">%s Followers</string>
+    <string name="following">%s Following</string>
+
+    <string name="tab_followers">Followers</string>
+    <string name="tab_following">Following</string>
+
+    <string name="preference">Preference</string>
+    <string name="dark_mode">Dark Mode</string>
+
+    <string name="splash_app_name">Github User by Riofuad</string>
+    <string name="splash_version">v2.0</string>
+    <string name="splash_logo">Logo</string>
+
+</resources>
